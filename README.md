@@ -1,11 +1,5 @@
 # super-duper-octo-pancake
 
-## Category
-
-[toc]
-
-Don't know what's this. 
-
 ## Members
 
 罗胤玻
