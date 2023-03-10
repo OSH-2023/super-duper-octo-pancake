@@ -24,10 +24,6 @@
   * 改写某种已有OS的内核使其支持分布式（如Linux），保持上层内容不变
   
 
-#### 2022 之前
-
-参见 [pre_research_2022.pdf](../reference/pre_research_2022.pdf) 
-
 ## Distributed-File-System
 
 ### 定义
@@ -39,6 +35,8 @@
 * 数据一致性问题 - Paxos算法
 * 高性能问题 - 缓存
 
-#### 2022 之前
+## Reference
 
-参见 [pre_research_2022.pdf](../reference/pre_research_2022.pdf) 
+2022年之前项目：
+
+参见 [pre_research_2022.pdf](../reference/pre_research_2022.pdf)
