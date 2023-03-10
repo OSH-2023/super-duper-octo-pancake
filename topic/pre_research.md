@@ -1,6 +1,8 @@
 # Pre-Research
 ## Distributed-OS
+
 ### 定义
+
 将若干节点的资源统筹调配，对用户透明。这些计算机在物理上是分开的，在体系结构上可能是异构的，但是通过网络相互连接，形成一个统一的计算系统。分布式系统的各个计算机通过相互发送消息实现交流和协调。
 主要分为两部分：
 * minimal kernel, 用于直接控制该节点的硬件
@@ -34,6 +36,20 @@
 #### OSH-2022 x-WowKiddy
 * 数据一致性问题 - Paxos算法
 * 高性能问题 - 缓存
+
+## Mobile Operating System
+
+几乎没人做过， Android OS 和 IOS 从操作系统层面讲学习较难。
+
+### IOS
+
+IOS 一般需要 Mac 作为开发平台，skip。
+
+## Android
+
+Android OS 有开发空间，并且开源。
+
+然而众多手机厂商已经对其进行深度开发，创新空间不大。有想法的话可以:)
 
 ## Reference
 
