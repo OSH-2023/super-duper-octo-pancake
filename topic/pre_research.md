@@ -23,18 +23,22 @@
   * 从零写起的分布式OS（轻量化，最基本功能，可选用某一种架构单独开发）
   * 改写某种已有OS的内核使其支持分布式（如Linux），保持上层内容不变
   
-#### 2022 之前
-参见 [Pre_Research_2022](./pre_research_2022.md)
 
+#### 2022 之前
+
+参见 [pre_research_2022.pdf](../reference/pre_research_2022.pdf) 
 
 ## Distributed-File-System
+
 ### 定义
 若干存储节点被封装在统一的接口之后，对用户透明，用户只能看到一个整体的文件系统。
 
 ### 过往项目：
+
 #### OSH-2022 x-WowKiddy
 * 数据一致性问题 - Paxos算法
 * 高性能问题 - 缓存
 
 #### 2022 之前
-参见 [Pre_Research_2022](./pre_research_2022.md)
+
+参见 [pre_research_2022.pdf](../reference/pre_research_2022.pdf) 
