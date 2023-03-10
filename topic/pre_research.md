@@ -72,11 +72,21 @@ RTOS的内核通常会有：调度器、对象、服务。
 
 参考：https://en.wikipedia.org/wiki/Real-time_operating_system
 
+Official site: https://www.ros.org
+
 ### 过往项目
 
 https://github.com/OSH-2022/x-QvQ
 
 省流：用 Rust 写一个 Real-time operating system 的 kernel。
+
+
+
+https://github.com/OSH-2022/x-NooBirds
+
+基于实时操作系统开发一个基于视觉的机器人小车平台。
+
+其中的一些资源同样适用于
 
 ## Robot Operating System
 
@@ -90,6 +100,16 @@ ROS的运行架构是一种使用ROS通信模块实现模块间P2P的松耦合�
 - 基于Topic的异步数据流通讯，还有参数服务器上的数据存储。
 
 参考: https://en.wikipedia.org/wiki/Robot_Operating_System
+
+Official site: https://www.ros.org/
+
+### 可行性
+
+可以观看官网上的介绍视频。
+
+很多大型公司基于 ROS 开发自己的机器人平台，并且 ROS 周边社区，资源也较为丰富，开发难度可能不会很大。
+
+但是同时需要考虑到硬件设计，硬件条件。
 
 ## Reference
 
