@@ -116,3 +116,5 @@ Official site: https://www.ros.org/
 2022年之前项目：
 
 参见 [pre_research_2022.pdf](../reference/pre_research_2022.pdf)
+
+一个从头开始写操作系统的教程：https://github.com/cfenollosa/os-tutorial
